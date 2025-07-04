@@ -8,7 +8,7 @@ Below, we list the algorithms and abstractions whose specifications are availabl
 For each of them, we also mention the section in the paper where it appears.
 
 - [State-machine replication](SMR.tla) (Section 2)
-- [Byzantine state-machine replication](BLSMR.tla) (Section 3)
+- [Byzantine leaderless state-machine replication](BLSMR.tla) (Section 3)
 - [Vector consensus](VectorConsensus.tla) (Section 4)
 - [Dependencies discovery service](DDS.tla) (Section 4)
 - [Abstract BLSMR Machine](Machine.tla) (Section 4)
